@@ -10,3 +10,7 @@ $ git init
 for i in range(10):
   print(i)
 ```
+
+- [ ] turn on github pages
+- [x] write aaa
+- [ ] nice shot
